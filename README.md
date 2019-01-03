@@ -22,4 +22,4 @@ Notice that more demos can be found in the examples folder of the [DeepLabCut gi
 - Dec 10-11 21018: Ludwig-Maximilians-University, Munich (locally organized by Kate Stynik)
 - Dec 13-14 2018: Nencki Institute of Experimental Biology, Warsaw (locally organized by Mateusz Kostecki)
 - Jan 7 2019: Marine Biological Laboratory, Woodshole, MA (locally organized by Dr. Yisrael Schnytzer)
-- Jan 29-30 2019: Rowland Institute, Cambridge >> [sign up](https://twitter.com/TrackingActions/status/1067253667315806211)
+- Jan 28-29 2019: Rowland Institute, Cambridge, MA
