@@ -2,7 +2,7 @@
 
 Notice that details on installation, usage and examples can be found on the standard repository: https://github.com/AlexEMG/DeepLabCut
 
-Selected materials from our workshops for using DeepLabCut:
+Here, we share selected materials from our workshops for using DeepLabCut:
 
 [Introduction slides](DeepLabCut-Introduction.pdf)
 
@@ -10,9 +10,11 @@ Selected materials from our workshops for using DeepLabCut:
 
 [Demo session 2 - training to refinement](DeepLabCut-Workshop-Session2.pdf)
 
-[User guide for DeepLabCut](https://www.biorxiv.org/content/biorxiv/early/2018/11/24/476531.full.pdf)
+[User guide for DeepLabCut](https://www.biorxiv.org/content/biorxiv/early/2018/11/24/476531.full.pdf) [BioRxiv paper - Nath*, Mathis* et al]
 
-You can use Google Colaboratory to run the demo (without any installation):
+# Interactive Demos
+
+You can also use Google Colaboratory to run the demo (without any installation):
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlexEMG/DeepLabCut/blob/master/examples/Colab_TrainNetwork_VideoAnalysis.ipynb)
 
 Notice that more demos can be found in the examples folder of the [DeepLabCut github repo](https://github.com/AlexEMG/DeepLabCut/tree/master/examples). 
