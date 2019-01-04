@@ -19,9 +19,12 @@ You can also use Google Colaboratory to run the demo (without any installation):
 
 Notice that more demos can be found in the examples folder of the [DeepLabCut github repo](https://github.com/AlexEMG/DeepLabCut/tree/master/examples). 
 
-# Current workshop schedule
+# Past and present workshop schedule
 
-- Dec 10-11 21018: Ludwig-Maximilians-University, Munich (locally organized by Kate Stynik)
-- Dec 13-14 2018: Nencki Institute of Experimental Biology, Warsaw (locally organized by Mateusz Kostecki)
-- Jan 7 2019: Marine Biological Laboratory, Woodshole, MA (locally organized by Dr. Yisrael Schnytzer)
 - Jan 28-29 2019: Rowland Institute, Cambridge, MA
+- Jan 7 2019: Marine Biological Laboratory, Woods Hole, MA (locally organized by Dr. Yisrael Schnytzer)
+- Dec 13-14 2018: Nencki Institute of Experimental Biology, Warsaw (locally organized by Mateusz Kostecki)
+- Dec 10-11 21018: Ludwig-Maximilians-University, Munich (locally organized by Kate Stynik)
+
+
+
