@@ -10,6 +10,10 @@ Here, we share selected materials from our workshops for using DeepLabCut:
 
 [Demo session 2 - training to refinement](DeepLabCut-Workshop-Session2.pdf)
 
+[Outlook slides on analysis avenues with postural data](DeepLabCut-WhatNext?.pdf)
+
+[Example script for automating analysis with deeplabcut](runtraining_andevaluation.py)
+
 [User guide for DeepLabCut](https://www.biorxiv.org/content/biorxiv/early/2018/11/24/476531.full.pdf) [BioRxiv paper - Nath*, Mathis* et al]
 
 # Interactive Demos
