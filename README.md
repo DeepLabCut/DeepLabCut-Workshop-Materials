@@ -10,7 +10,7 @@ Here, we share selected materials from our workshops for using DeepLabCut:
 
 [Demo session 2 - training to refinement](DeepLabCut-Workshop-Session2.pdf)
 
-[Outlook slides on analysis avenues with postural data](DeepLabCut-WhatNext?.pdf)
+[Outlook slides on analysis avenues with postural data](DeepLabCut-WhatNext%3F.pdf)
 
 [Example script for automating analysis with deeplabcut](runtraining_andevaluation.py)
 
