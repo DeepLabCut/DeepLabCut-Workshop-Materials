@@ -1,4 +1,4 @@
-In 2020 we will host 2 workshops and 2 hackathons, one at Harvard and one at EPFL each. See [here for details.](http://www.mousemotorlab.org/workshops). We will also be present at various other summer schools (TBA).
+In 2020 we will host 2 workshops and 2 hackathons, one at Harvard  and one at EPFL each. See [here for details.](http://www.mousemotorlab.org/workshops). We will also be present at various other summer schools (TBA).
 
 The workshop materials will soon be updated to the 2020 materials in mid January, so stay tuned!
 
