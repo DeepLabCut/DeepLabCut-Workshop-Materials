@@ -1,3 +1,7 @@
+In 2020 we will host 2 workshops and 2 hackathons, one at Harvard and one at EPFL each. See [here for details.](http://www.mousemotorlab.org/workshops). We will also be present at various other summer schools (TBA).
+
+The workshop materials will soon be updated to the 2020 materials, so stay tuned!
+
 # DeepLabCut Workshop Materials
 
 Notice that details on installation, usage and examples can be found on the standard repository: https://github.com/AlexEMG/DeepLabCut
@@ -14,16 +18,16 @@ Here, we share selected materials from our workshops for using DeepLabCut:
 
 [Example script for automating analysis with deeplabcut](runtraining_andevaluation.py)
 
-[User guide for DeepLabCut](https://www.biorxiv.org/content/biorxiv/early/2018/11/24/476531.full.pdf) [BioRxiv paper - Nath*, Mathis* et al] **UPDTED!** User Guide at [Nature Protcols](https://www.nature.com/articles/s41596-019-0176-0)
+[User guide for DeepLabCut](https://www.biorxiv.org/content/biorxiv/early/2018/11/24/476531.full.pdf) [BioRxiv paper - Nath*, Mathis* et al] **UPDATED!** User Guide at [Nature Protcols](https://www.nature.com/articles/s41596-019-0176-0)
 
 [YouTube Tutorial Videos](https://www.youtube.com/channel/UC2HEbWpC_1v6i9RnDMy-dfA)
 
 # Interactive Demos
 
-You can also use Google Colaboratory to run the demo data (without any installation): 
+You can also use Google Colaboratory to run the demo data (without any installation):
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlexEMG/DeepLabCut/blob/master/examples/Colab_DEMO_mouse_openfield.ipynb)
 
-Notice that more demos can be found in the examples folder of the [DeepLabCut github repo](https://github.com/AlexEMG/DeepLabCut/tree/master/examples). 
+Notice that more demos can be found in the examples folder of the [DeepLabCut github repo](https://github.com/AlexEMG/DeepLabCut/tree/master/examples).
 
 # Past and present workshop schedule
 - July 2019: [Neural Data Science Course at Cold Spring Harbor Laboratory](https://meetings.cshl.edu/courses.aspx?course=c-neudata&year=19)
