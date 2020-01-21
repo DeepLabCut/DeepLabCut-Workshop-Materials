@@ -13,11 +13,11 @@ Notice that details on installation, usage and examples can be found on the stan
 
 Here, we share selected materials from our workshops for using DeepLabCut:
 
-[Demo session 1 - project creation and labeling](Part 1 - labeling.pdf)
+[Demo session 1: project creation and labeling](part1-labeling.pdf)
 
-[Demo session 2 - network selection training and evaluation](Part2 - network and training.pdf)
+[Demo session 2: network selection training and evaluation](part2-network.pdf)
 
-[Demo session 3 - analysis and active learning](Part 3 - active learning.pdf)
+[Demo session 3: analysis and active learning](part3-analysis.pdf)
 
 [Outlook slides on analysis avenues with postural data](DeepLabCut-WhatNextQuestionMark.pdf)
 
