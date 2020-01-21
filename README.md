@@ -7,23 +7,23 @@
 In **2020** we will host 2 workshops and 2 hackathons, one each at Harvard  and one each at EPFL. See [here for details](http://www.mousemotorlab.org/workshops). We will also be present at various other summer schools (TBA).
 
 
-# DeepLabCut Workshop Materials:
+# DeepLabCut January 2020 Workshop Materials:
 
 Notice that details on installation, usage and examples can be found on the standard repository: https://github.com/AlexEMG/DeepLabCut
 
 Here, we share selected materials from our workshops for using DeepLabCut:
 
-[Introduction slides](DeepLabCut-Introduction.pdf)
+[Demo session 1 - project creation and labeling](Part 1 - labeling.pdf)
 
-[Demo session 1 - project to training](DeepLabCut-Workshop-Session1.pdf)
+[Demo session 2 - network selection training and evaluation](Part2 - network and training.pdf)
 
-[Demo session 2 - training to refinement](DeepLabCut-Workshop-Session2.pdf)
+[Demo session 3 - analysis and active learning](Part 3 - active learning.pdf)
 
-[Outlook slides on analysis avenues with postural data](DeepLabCut-WhatNext%3F.pdf)
+[Outlook slides on analysis avenues with postural data](DeepLabCut-WhatNextQuestionMark.pdf)
 
 [Example script for automating analysis with deeplabcut](runtraining_andevaluation.py)
 
-[User guide for DeepLabCut](https://www.biorxiv.org/content/biorxiv/early/2018/11/24/476531.full.pdf) [BioRxiv paper - Nath*, Mathis* et al] **UPDATED!** User Guide at [Nature Protcols](https://www.nature.com/articles/s41596-019-0176-0)
+[User guide for DeepLabCut published in Nature Protcols](https://www.nature.com/articles/s41596-019-0176-0)
 
 And please check the [GitHub documentation](https://github.com/AlexEMG/DeepLabCut/blob/master/docs/UseOverviewGuide.md) for more features and updates!
 
@@ -39,13 +39,11 @@ Notice that more demos can be found in the examples folder of the [DeepLabCut gi
 # Past and present workshop schedule
 - March 5-6, 2020: First DLC Hackathon: focus on hardware integration!
 - Jan 16-17, 2020: Second Annual Workshop at the Rowland Institute at Harvard!
-
 - July 2019: [Neural Data Science Course at Cold Spring Harbor Laboratory](https://meetings.cshl.edu/courses.aspx?course=c-neudata&year=19)
 - June 2019: Marine Biological Laboratory, Woods Hole, MA as part of [The Neural Systems and Behavior Course in Woods Hole](https://www.mbl.edu/nsb/). The ribbon fin tracking below is from that course. See http://www.mousemotorlab.org/deeplabcutdetails for more details.
 - June 29-July 6, 2019: CVSS 2019: Black Forest, Germany (http://orga.cvss.cc/)
 - Jan 28-29 2019: [Workshop at the Rowland Institute at Harvard](https://www2.rowland.harvard.edu/news/adaptive-motor-control-workshop)
 - Jan 7 2019: Marine Biological Laboratory, Woods Hole, MA (locally organized by Dr. Yisrael Schnytzer)
-
 - Dec 13-14 2018: Nencki Institute of Experimental Biology, Warsaw (locally organized by Mateusz Kostecki)
 - Dec 10-11 2018: Ludwig-Maximilians-University, Munich (locally organized by Kate Stynik)
 
