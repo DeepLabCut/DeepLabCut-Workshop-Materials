@@ -6,8 +6,10 @@
 
 In **2020** we will host 2 workshops and 2 hackathons, one each at Harvard  and one each at EPFL. See [here for details](http://www.mousemotorlab.org/workshops). We will also be present at various other summer schools (TBA).
 
+**NEW: due to COVID, we are working on a virtual [self-paced spring/summer course](/summercourse_2020.md)**
 
-# DeepLabCut January 2020 Workshop Materials:
+
+# DeepLabCut 2020 Workshop Materials:
 
 Notice that details on installation, usage and examples can be found on the standard repository: https://github.com/AlexEMG/DeepLabCut
 
