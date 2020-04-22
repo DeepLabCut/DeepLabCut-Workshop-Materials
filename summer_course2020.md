@@ -4,13 +4,13 @@ This document is a **WIP** outline of resources for an informal "spring/summer c
 
 www.deeplabcut.org 
 
-We suggest student self organize into groups to work through this together. Prehaps find eachother on Gitter or Twitter:
+We suggest student self organize into groups to work through this together. Perhaps find each other on Gitter or Twitter:
 [![Gitter](https://badges.gitter.im/DeepLabCut/community.svg)](https://gitter.im/DeepLabCut/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeepLabCut.svg?label=DeepLabCut&style=social)](https://twitter.com/DeepLabCut)
 
 ## Quick Start:
 
-You need: a computer, Anaconda for python3 installed, and DeepLabCut (CPU version)
+You need: Anaconda for python3 and DeepLabCut installed (CPU version)
 - you should have a [CPU version of DeepLabCut installed on your laptop](https://github.com/AlexEMG/DeepLabCut/blob/master/conda-environments/README.md). We will assume you don't all have GPUs at home, so we will 
 utilize cloud-computing resources for those steps. 
 
@@ -29,9 +29,9 @@ utilize cloud-computing resources for those steps.
 
 ### **Module 1: getting started on your own data**
 
-What you need: any videos where you can clearly see the animals/objects, etc. 
+What you need: any videos where you can see the animals/objects, etc. 
 You can use our demo videos, grab some from the internet, or use whatever older data you have. Any camera, color/monchrome, etc will work.
-Find diverse videos, and label well is the goal :) 
+Find diverse videos, and label what you want to track well :) 
     
    - **Slides:** [Overview of starting new projects](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/part1-labeling.pdf)
    - **READ ME PLEASE:** [DeepLabCut, the science](rdcu.be/4Rep)
