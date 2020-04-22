@@ -16,7 +16,7 @@ utilize cloud-computing resources for those steps.
 
 ## Outline:
 
-**The basics:**
+### **The basics:**
 
 - Using the terminal / cmd [Video Tutorial!](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
 
@@ -27,7 +27,7 @@ utilize cloud-computing resources for those steps.
 
 - There are a lot os docs... where to begin: [Video Tutorial!](https://www.youtube.com/watch?v=A9qZidI7tL8) 
 
-**Module 1: getting started on your own data**
+### **Module 1: getting started on your own data**
 
 What you need: any videos where you can clearly see the animals/objects, etc. 
 You can use our demo videos, grab some from the internet, or use whatever older data you have. Any camera, color/monchrome, etc will work.
@@ -42,7 +42,8 @@ Find diverse videos, and label well is the goal :)
       - coming soon, multi-animal DLC: [labeling preview](https://www.youtube.com/watch?v=_qbEqNKApsI)
       - Please go from project creation (use >1 video!) to labeling your data, and then check the labels!
       
- **Module 2: Neural Networks**
+
+### **Module 2: Neural Networks**
  
    - **Slides:** [Overview of creating training and test data, and training networks](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/part2-network.pdf)
    - **READ ME PLEASE:** [What are convolutional neural networks?](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) 
@@ -54,17 +55,18 @@ Find diverse videos, and label well is the goal :)
         - IF you want to train on your CPU, then run the step `create_training_dataset`, in the GUI etc. on your own computer. 
         - IF you want to use GPUs on google colab, [**(1)** watch this FIRST/follow along here!](https://www.youtube.com/watch?v=qJGs8nxx80A) **(2)** move your whole project folder to Google Drive, and then [**use this notebook**](https://github.com/AlexEMG/DeepLabCut/blob/master/examples/COLAB_YOURDATA_TrainNetwork_VideoAnalysis.ipynb)
    
- **Module 3: Evalution of network performance**
+
+### **Module 3: Evalution of network performance**
  
    - **Slides** [Evalute your network](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/part3-analysis.pdf)
    - **WATCH:** [Evaluate the network in ipython](https://www.youtube.com/watch?v=bgfnz1wtlpo)
       - why evaluation matters; how to benchmark; analyzing an video and using scoremaps, conf. readouts, etc 
    
- **Module 4: Scaling your analysis to many new videos**
+### **Module 4: Scaling your analysis to many new videos**
  
    - [Analyzing videos in batches, over many folders, setting up automated data processing](https://github.com/DeepLabCut/DLCutils/tree/master/SCALE_YOUR_ANALYSIS) 
    
- **Module 5: Got Poses? Now what ...**
+### **Module 5: Got Poses? Now what ...**
  
    - [Helper code and packages for use on DLC outputs](https://github.com/DeepLabCut/DLCutils)
 
