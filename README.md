@@ -39,7 +39,7 @@ You can also use Google Colaboratory to run the demo data (without any installat
 Notice that more demos can be found in the examples folder of the [DeepLabCut github repo](https://github.com/AlexEMG/DeepLabCut/tree/master/examples).
 
 # Past and present workshop schedule
-- March 5-6, 2020: First DLC Hackathon: focus on hardware integration. Many exciting developments will appear like integration with [Bonsai](https://github.com/bonsai-rx/deeplabcut), [AutoPilot](https://auto-pi-lot.com), etc. Stay tuned!
+- March 5-6, 2020: First DLC Hackathon: focus on hardware integration. Many exciting developments will appear -- Stay tuned!
 - Jan 16-17, 2020: Second Annual Workshop at the Rowland Institute at Harvard!
 - July 2019: [Neural Data Science Course at Cold Spring Harbor Laboratory](https://meetings.cshl.edu/courses.aspx?course=c-neudata&year=19)
 - June 2019: Marine Biological Laboratory, Woods Hole, MA as part of [The Neural Systems and Behavior Course in Woods Hole](https://www.mbl.edu/nsb/). The ribbon fin tracking below is from that course. See http://www.mousemotorlab.org/deeplabcutdetails for more details.
