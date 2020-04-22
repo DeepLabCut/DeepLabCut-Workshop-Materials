@@ -37,15 +37,22 @@ Find diverse videos, and label well is the goal :)
    - **READ ME PLEASE:** [DeepLabCut, the science](rdcu.be/4Rep)
    - **READ ME PLEASE:** [DeepLabCut, the user guide](https://rdcu.be/bHpHN)
    - **WATCH:** Video tutorial 1: [using the Project Manager GUI](https://www.youtube.com/watch?v=KcXogR-p5Ak)
+     - Please go from project creation (use >1 video!) to labeling your data, and then check the labels!
    - **WATCH:** Video tutorial 2: [using ipython/pythonw (more functions!)](https://www.youtube.com/watch?v=7xwOhUcIGio)
       - coming soon, multi-animal DLC: [labeling preview](https://www.youtube.com/watch?v=_qbEqNKApsI)
+      - Please go from project creation (use >1 video!) to labeling your data, and then check the labels!
       
  **Module 2: Neural Networks**
  
    - **Slides:** [Overview of creating training and test data, and training networks](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/part2-network.pdf)
    - **READ ME PLEASE:** [What are convolutional neural networks?](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) 
+   
+  Before you create a training/test set, please read/watch:
    - **More information:** [Which types neural networks are available, and what should I use?](https://github.com/AlexEMG/DeepLabCut/wiki/What-neural-network-should-I-use%3F)
    - **WATCH:** Video tutorial 1: [How to test different networks in a controlled way](https://www.youtube.com/watch?v=WXCVr6xAcCA)
+     - Now, decide what model(s) you want to test. 
+        - IF you want to train on your CPU, then run the step `create_training_dataset`, in the GUI etc. on your own computer. 
+        - IF you want to use GPUs on google colab, [**(1)** watch this FIRST/follow along here!](https://www.youtube.com/watch?v=qJGs8nxx80A) **(2)** move your whole project folder to Google Drive, and then [**use this notebook**](https://github.com/AlexEMG/DeepLabCut/blob/master/examples/COLAB_YOURDATA_TrainNetwork_VideoAnalysis.ipynb)
    
  **Module 3: Evalution of network performance**
  
