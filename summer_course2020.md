@@ -50,6 +50,7 @@ Find diverse videos, and label well is the goal :)
  **Module 3: Evalution of network performance**
  
    - **Slides** [Evalute your network](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/part3-analysis.pdf)
+   - **WATCH:** [Evaluate the network in ipython](https://www.youtube.com/watch?v=bgfnz1wtlpo)
       - why evaluation matters; how to benchmark; analyzing an video and using scoremaps, conf. readouts, etc 
    
  **Module 4: Scaling your analysis to many new videos**
