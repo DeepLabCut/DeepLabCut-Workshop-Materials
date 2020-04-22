@@ -6,8 +6,10 @@
 
 In **2020** we will host 2 workshops and 2 hackathons, one each at Harvard  and one each at EPFL. See [here for details](http://www.mousemotorlab.org/workshops). We will also be present at various other summer schools (TBA).
 
+**NEW: due to COVID-19, we are working on a virtual [self-paced spring/summer course](/summercourse_2020.md)**
 
-# DeepLabCut January 2020 Workshop Materials:
+
+# DeepLabCut 2020 Workshop Materials:
 
 Notice that details on installation, usage and examples can be found on the standard repository: https://github.com/AlexEMG/DeepLabCut
 
@@ -37,7 +39,7 @@ You can also use Google Colaboratory to run the demo data (without any installat
 Notice that more demos can be found in the examples folder of the [DeepLabCut github repo](https://github.com/AlexEMG/DeepLabCut/tree/master/examples).
 
 # Past and present workshop schedule
-- March 5-6, 2020: First DLC Hackathon: focus on hardware integration!
+- March 5-6, 2020: First DLC Hackathon: focus on hardware integration. Many exciting developments will appear -- Stay tuned!
 - Jan 16-17, 2020: Second Annual Workshop at the Rowland Institute at Harvard!
 - July 2019: [Neural Data Science Course at Cold Spring Harbor Laboratory](https://meetings.cshl.edu/courses.aspx?course=c-neudata&year=19)
 - June 2019: Marine Biological Laboratory, Woods Hole, MA as part of [The Neural Systems and Behavior Course in Woods Hole](https://www.mbl.edu/nsb/). The ribbon fin tracking below is from that course. See http://www.mousemotorlab.org/deeplabcutdetails for more details.
