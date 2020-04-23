@@ -18,15 +18,21 @@ utilize cloud-computing resources for those steps.
 
 ### **The basics:**
 
-- Using the terminal / cmd [Video Tutorial!](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
-
-- Can I DEMO DEEPLABCUT (DLC) quickly? 
+- **DEMO:** Can I DEMO DEEPLABCUT (DLC) quickly? 
     - Yes: [you can click through this DEMO notebook](https://colab.research.google.com/github/AlexEMG/DeepLabCut/blob/master/examples/COLAB_DEMO_mouse_openfield.ipynb)
     - AND follow along with me: [Video Tutorial!](https://www.youtube.com/watch?v=DRT-Cq2vdWs)
-    
-- How do you know DLC is installed properly? (how to use test scripts!) ##TODO
+
+- **Information:** Using the program terminal / cmd on your computer: [Video Tutorial!](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
+
+- **WATCH:** How do you know DLC is installed properly? (i.e. how to use our test script!)[Video Tutorial!](https://youtu.be/IOWtKn3l33s)
+
+
+<img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1587608364285-A8R2F24K4DCP0KLAYI91/ke17ZwdGBToddI8pDm48kOhrDvKq54Xu9oStUCFZX0R7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4XabXLlNWpcJMv7FrN_NLe3GEN018us8vX03EdtIDHsW7dEh7nvL5CemxAxOy1gg/EKlIEXyXUAE0cy3.jpeg?format=1000w" width="350" title="DLC" alt="review!" align="right" vspace = "50">
 
 - **REVIEW PAPER:** The state of animal pose estmiation w/deep learning i.e. "Deep learning tools for the measurement of animal behavior in neuroscience" [arXiv](https://arxiv.org/abs/1909.13868) & [published version](https://www.sciencedirect.com/science/article/pii/S0959438819301151)
+
+
+
 
 - **WATCH:** There are a lot os docs... where to begin: [Video Tutorial!](https://www.youtube.com/watch?v=A9qZidI7tL8) 
 
