@@ -44,7 +44,7 @@ You can use our demo videos, grab some from the internet, or use whatever older 
 :purple_heart: **NOTE:** if you want to contribute back to community-science, please get in touch with us as we have a LOT of data we want to label to be able to share back with everyone; So, if you want to help sign up here (labeling can be on data we provide or possibly yours): https://forms.gle/KRtdKKYB57ZkaBwH7 :purple_heart:
     
    - **Slides:** [Overview of starting new projects](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/part1-labeling.pdf)
-   - **READ ME PLEASE:** [DeepLabCut, the science](rdcu.be/4Rep)
+   - **READ ME PLEASE:** [DeepLabCut, the science](https://rdcu.be/4Rep)
    - **READ ME PLEASE:** [DeepLabCut, the user guide](https://rdcu.be/bHpHN)
    - **WATCH:** Video tutorial 1: [using the Project Manager GUI](https://www.youtube.com/watch?v=KcXogR-p5Ak)
      - Please go from project creation (use >1 video!) to labeling your data, and then check the labels!
