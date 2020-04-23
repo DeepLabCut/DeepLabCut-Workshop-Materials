@@ -23,15 +23,19 @@ utilize cloud-computing resources for those steps.
 - Can I DEMO DEEPLABCUT (DLC) quickly? 
     - Yes: [you can click through this DEMO notebook](https://colab.research.google.com/github/AlexEMG/DeepLabCut/blob/master/examples/COLAB_DEMO_mouse_openfield.ipynb)
     - AND follow along with me: [Video Tutorial!](https://www.youtube.com/watch?v=DRT-Cq2vdWs)
+    
 - How do you know DLC is installed properly? (how to use test scripts!) ##TODO
 
-- There are a lot os docs... where to begin: [Video Tutorial!](https://www.youtube.com/watch?v=A9qZidI7tL8) 
+- **REVIEW PAPER:** The state of animal pose estmiation w/deep learning i.e. "Deep learning tools for the measurement of animal behavior in neuroscience" [arXiv](https://arxiv.org/abs/1909.13868) & [published version](https://www.sciencedirect.com/science/article/pii/S0959438819301151)
+
+- **WATCH:** There are a lot os docs... where to begin: [Video Tutorial!](https://www.youtube.com/watch?v=A9qZidI7tL8) 
 
 ### **Module 1: getting started on your own data**
 
 What you need: any videos where you can see the animals/objects, etc. 
-You can use our demo videos, grab some from the internet, or use whatever older data you have. Any camera, color/monchrome, etc will work.
-Find diverse videos, and label what you want to track well :) 
+You can use our demo videos, grab some from the internet, or use whatever older data you have. Any camera, color/monchrome, etc will work. Find diverse videos, and label what you want to track well :) 
+
+:purple_heart: **NOTE:** if you want to contribute back to community-science, please get in touch with us as we have a LOT of data we want to label to be able to share back with everyone; So, if you want to help sign up here (labeling can be on data we provide or possibly yours): https://forms.gle/KRtdKKYB57ZkaBwH7 :purple_heart:
     
    - **Slides:** [Overview of starting new projects](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/part1-labeling.pdf)
    - **READ ME PLEASE:** [DeepLabCut, the science](rdcu.be/4Rep)
