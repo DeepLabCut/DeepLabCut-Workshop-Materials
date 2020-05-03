@@ -18,11 +18,13 @@ utilize cloud-computing resources for those steps.
 
 ### **The basics:**
 
+- **Learning:** Using the program terminal / cmd on your computer: [Video Tutorial!](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
+
+- **Learning:** although minimal to no Python coding is required (i.e. you could use the DLC GUI to run the full program without it), here are some resources you may want to check out. [Software Carpentry: Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
+
 - **DEMO:** Can I DEMO DEEPLABCUT (DLC) quickly? 
     - Yes: [you can click through this DEMO notebook](https://colab.research.google.com/github/AlexEMG/DeepLabCut/blob/master/examples/COLAB_DEMO_mouse_openfield.ipynb)
     - AND follow along with me: [Video Tutorial!](https://www.youtube.com/watch?v=DRT-Cq2vdWs)
-
-- **Information:** Using the program terminal / cmd on your computer: [Video Tutorial!](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
 
 - **WATCH:** How do you know DLC is installed properly? (i.e. how to use our test script!)[Video Tutorial!](https://youtu.be/IOWtKn3l33s)
 
