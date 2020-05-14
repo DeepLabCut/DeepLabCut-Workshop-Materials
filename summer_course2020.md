@@ -8,6 +8,10 @@ We suggest student self organize into groups to work through this together. Perh
 [![Gitter](https://badges.gitter.im/DeepLabCut/community.svg)](https://gitter.im/DeepLabCut/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeepLabCut.svg?label=DeepLabCut&style=social)](https://twitter.com/DeepLabCut)
 
+:purple_heart: **We would also be very excited if you contributed to the newly launched DeepLabCut Model Zoo while you learn!**
+
+Namely, you can learn to use DeepLabCut on data that can be used to build better community tools!! Please contact us in this form if you are interested: https://forms.gle/KRtdKKYB57ZkaBwH7 :purple_heart:
+
 ## Quick Start:
 
 You need: Anaconda for python3 and DeepLabCut installed (CPU version)
