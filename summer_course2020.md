@@ -1,18 +1,20 @@
 ## Got Behavior? Get Poses ...  <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1572296495650-Y4ZTJ2XP2Z9XF1AD74VW/ke17ZwdGBToddI8pDm48kMulEJPOrz9Y8HeI7oJuXxR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZiU3J6AN9rgO1lHw9nGbkYQrCLTag1XBHRgOrY8YAdXW07ycm2Trb21kYhaLJjddA/DLC_logo_blk-01.png?format=1000w" width="350" title="DLC-live" alt="DLC LIVE!" align="right" vspace = "50">
 
-This document is an outline of resources for an informal "spring/summer course" for those wanting to learn to use DeepLabCut while responsibilty isolating due to COVID-19. We except it to take roughly 1 week to get through.
+This document is an outline of resources for an informal "spring/summer course" for those wanting to learn to use DeepLabCut while responsibilty isolating due to COVID-19. We except it to take *roughly* 1-2 weeks to get through alone, or you can join the course and it will be spread out over 3 weeks.
+
+**UPDATE:** We will also be organzing a "strcutured" version with a kick-off webinar (**JUNE 5TH!**), then a weekly check each week  (for 3 weeks) to have Q & A style discussions with the core development team! If you want to be a part of this course, please sign up by **JUNE 3RD**!! https://forms.gle/KRtdKKYB57ZkaBwH7
+
+:purple_heart: We would also be very excited if you contributed to the newly launched DeepLabCut Model Zoo while you learn! Namely, you can learn to use DeepLabCut on data that can be used to build better community tools!! Please contact us in this form if you are interested: https://forms.gle/KRtdKKYB57ZkaBwH7 :purple_heart:
 
 www.deeplabcut.org 
 
-We suggest student self organize into groups to work through this together. Perhaps find each other on Gitter or Twitter:
+You can also chat with one another on Gitter or Twitter:
 [![Gitter](https://badges.gitter.im/DeepLabCut/community.svg)](https://gitter.im/DeepLabCut/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeepLabCut.svg?label=DeepLabCut&style=social)](https://twitter.com/DeepLabCut)
 
-:purple_heart: **We would also be very excited if you contributed to the newly launched DeepLabCut Model Zoo while you learn!**
 
-Namely, you can learn to use DeepLabCut on data that can be used to build better community tools!! Please contact us in this form if you are interested: https://forms.gle/KRtdKKYB57ZkaBwH7 :purple_heart:
 
-## Quick Start:
+## Quick Start: (before the kick-off)
 
 You need: Anaconda for python3 and DeepLabCut installed (CPU version)
 - you should have a [CPU version of DeepLabCut installed on your laptop](https://github.com/AlexEMG/DeepLabCut/blob/master/conda-environments/README.md). We will assume you don't all have GPUs at home, so we will 
@@ -45,10 +47,11 @@ utilize cloud-computing resources for those steps.
 
 - **WATCH:** There are a lot os docs... where to begin: [Video Tutorial!](https://www.youtube.com/watch?v=A9qZidI7tL8) 
 
-### **Module 1: getting started on your own data**
+### **Module 1: getting started on data**
 
-What you need: any videos where you can see the animals/objects, etc. 
+**What you need:** any videos where you can see the animals/objects, etc. 
 You can use our demo videos, grab some from the internet, or use whatever older data you have. Any camera, color/monchrome, etc will work. Find diverse videos, and label what you want to track well :) 
+- IF YOU ARE PART OF THE COURSE: you will be contributing to the DLC Model Zoo :smile:
 
 :purple_heart: **NOTE:** if you want to contribute back to community-science, please get in touch with us as we have a LOT of data we want to label to be able to share back with everyone; So, if you want to help sign up here (labeling can be on data we provide or possibly yours): https://forms.gle/KRtdKKYB57ZkaBwH7 :purple_heart:
     
@@ -57,7 +60,9 @@ You can use our demo videos, grab some from the internet, or use whatever older 
    - **READ ME PLEASE:** [DeepLabCut, the user guide](https://rdcu.be/bHpHN)
    - **WATCH:** Video tutorial 1: [using the Project Manager GUI](https://www.youtube.com/watch?v=KcXogR-p5Ak)
      - Please go from project creation (use >1 video!) to labeling your data, and then check the labels!
-   - **WATCH:** Video tutorial 2: [using ipython/pythonw (more functions!)](https://www.youtube.com/watch?v=7xwOhUcIGio)
+   - **WATCH:** Video tutorial 2: [using the Project Manager GUI for multi-animal pose estimation](https://www.youtube.com/watch?v=Kp-stcTm77g)
+     - Please go from project creation (use >1 video!) to labeling your data, and then check the labels!
+   - **WATCH:** Video tutorial 3: [using ipython/pythonw (more functions!)](https://www.youtube.com/watch?v=7xwOhUcIGio)
       - coming soon, multi-animal DLC: [labeling preview](https://www.youtube.com/watch?v=_qbEqNKApsI)
       - Please go from project creation (use >1 video!) to labeling your data, and then check the labels!
       
@@ -67,7 +72,9 @@ You can use our demo videos, grab some from the internet, or use whatever older 
    - **Slides:** [Overview of creating training and test data, and training networks](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/part2-network.pdf)
    - **READ ME PLEASE:** [What are convolutional neural networks?](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) 
    
-   - **READ ME PLEASE:** Here is a new paper from us describing challenges in robust pose estimation, why PRETRAINING really matters - which was our major scientific contribution to low-data input pose-estimation - and it describes new networks that are availble to you. [Pretraining boosts out-of-domain robustness for pose estimation](https://paperswithcode.com/paper/pretraining-boosts-out-of-domain-robustness)
+   - **READ ME PLEASE:** Here is a new paper from us describing challenges in robust pose estimation, why PRE-TRAINING really matters - which was our major scientific contribution to low-data input pose-estimation - and it describes new networks that are availble to you. [Pretraining boosts out-of-domain robustness for pose estimation](https://paperswithcode.com/paper/pretraining-boosts-out-of-domain-robustness)
+   
+       - **MORE DETAILS:** ImageNet: check out the original paper and dataset: http://www.image-net.org/ (link to [ppt from Dr. Fei-Fei Li](http://www.image-net.org/papers/ImageNet_2010.ppt))
    
   Before you create a training/test set, please read/watch:
    - **More information:** [Which types neural networks are available, and what should I use?](https://github.com/AlexEMG/DeepLabCut/wiki/What-neural-network-should-I-use%3F)
@@ -81,19 +88,19 @@ You can use our demo videos, grab some from the internet, or use whatever older 
  
    - **Slides** [Evalute your network](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/part3-analysis.pdf)
    - **WATCH:** [Evaluate the network in ipython](https://www.youtube.com/watch?v=bgfnz1wtlpo)
-      - why evaluation matters; how to benchmark; analyzing an video and using scoremaps, conf. readouts, etc 
+      - why evaluation matters; how to benchmark; analyzing an video and using scoremaps, conf. readouts, etc.
    
 ### **Module 4: Scaling your analysis to many new videos**
  
    - [Analyzing videos in batches, over many folders, setting up automated data processing](https://github.com/DeepLabCut/DLCutils/tree/master/SCALE_YOUR_ANALYSIS) 
-   
+  
+  - How to automate your analyze in the lab: [datajoint.io](datajoint.io), Cron Jobs: [schedule your code runs](https://www.ostechnix.com/a-beginners-guide-to-cron-jobs/)
 ### **Module 5: Got Poses? Now what ...**
  
    - [Helper code and packages for use on DLC outputs](https://github.com/DeepLabCut/DLCutils)
+   
+   - Course subscribers, we will go into depth on several ways to analyze your data. Please sign up! :smile:
+   
 
-
-**Other ideas:**
-
-- Docker, 3D DLC, ...
 
 *compiled and edited by Mackenzie Mathis*
