@@ -1,10 +1,12 @@
 ## Got Behavior? Get Poses ...  <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1572296495650-Y4ZTJ2XP2Z9XF1AD74VW/ke17ZwdGBToddI8pDm48kMulEJPOrz9Y8HeI7oJuXxR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZiU3J6AN9rgO1lHw9nGbkYQrCLTag1XBHRgOrY8YAdXW07ycm2Trb21kYhaLJjddA/DLC_logo_blk-01.png?format=1000w" width="350" title="DLC-live" alt="DLC LIVE!" align="right" vspace = "50">
 
-This document is an outline of resources for an informal "spring/summer course" for those wanting to learn to use DeepLabCut while responsibilty isolating due to COVID-19. We except it to take *roughly* 1-2 weeks to get through alone, or you can join the course and it will be spread out over 3 weeks.
+This document is an outline of resources for an informal "spring/summer course" for those wanting to learn to use DeepLabCut while responsibly isolating due to COVID-19. We expect it to take *roughly* 1-2 weeks to get through alone, or you can join the course and it will be spread out over 3 weeks.
+
 
 **UPDATE:** We will also be organzing a "structured" version with a kick-off webinar (**JUNE 5TH!**), then a weekly meeting (for 3 weeks) to have Q & A style discussions with the core development team! 
 
 If you want to be a part of this course, please sign up by **JUNE 3RD**!! https://forms.gle/KRtdKKYB57ZkaBwH7
+
 
 :purple_heart: We would also be very excited if you contributed to the newly launched DeepLabCut Model Zoo while you learn! Namely, you can learn to use DeepLabCut on data that can be used to build better community tools!! Please contact us in this form if you are interested: https://forms.gle/KRtdKKYB57ZkaBwH7 :purple_heart:
 
@@ -44,10 +46,10 @@ utilize cloud-computing resources for those steps.
 
 <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1587608364285-A8R2F24K4DCP0KLAYI91/ke17ZwdGBToddI8pDm48kOhrDvKq54Xu9oStUCFZX0R7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4XabXLlNWpcJMv7FrN_NLe3GEN018us8vX03EdtIDHsW7dEh7nvL5CemxAxOy1gg/EKlIEXyXUAE0cy3.jpeg?format=1000w" width="350" title="DLC" alt="review!" align="right" vspace = "50">
 
-- **REVIEW PAPER:** The state of animal pose estmiation w/deep learning i.e. "Deep learning tools for the measurement of animal behavior in neuroscience" [arXiv](https://arxiv.org/abs/1909.13868) & [published version](https://www.sciencedirect.com/science/article/pii/S0959438819301151)
+- **REVIEW PAPER:** The state of animal pose estmiation w/ deep learning i.e. "Deep learning tools for the measurement of animal behavior in neuroscience" [arXiv](https://arxiv.org/abs/1909.13868) & [published version](https://www.sciencedirect.com/science/article/pii/S0959438819301151)
 
 
-- **WATCH:** There are a lot os docs... where to begin: [Video Tutorial!](https://www.youtube.com/watch?v=A9qZidI7tL8) 
+- **WATCH:** There are a lot of docs... where to begin: [Video Tutorial!](https://www.youtube.com/watch?v=A9qZidI7tL8) 
 
 ### **Module 1: getting started on data**
 
@@ -96,7 +98,7 @@ You can use our demo videos, grab some from the internet, or use whatever older 
  
    - [Analyzing videos in batches, over many folders, setting up automated data processing](https://github.com/DeepLabCut/DLCutils/tree/master/SCALE_YOUR_ANALYSIS) 
   
-  - How to automate your analyze in the lab: [datajoint.io](datajoint.io), Cron Jobs: [schedule your code runs](https://www.ostechnix.com/a-beginners-guide-to-cron-jobs/)
+  - How to automate your analysis in the lab: [datajoint.io](datajoint.io), Cron Jobs: [schedule your code runs](https://www.ostechnix.com/a-beginners-guide-to-cron-jobs/)
 ### **Module 5: Got Poses? Now what ...**
  
    - [Helper code and packages for use on DLC outputs](https://github.com/DeepLabCut/DLCutils)
