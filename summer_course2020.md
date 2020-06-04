@@ -5,10 +5,10 @@ This document is an outline of resources for an informal "spring/summer course" 
 
 **UPDATE:** We will also be organzing a "structured" version with a kick-off webinar (**JUNE 5TH!**), then a weekly meeting (for 3 weeks) to have Q & A style discussions with the core development team! 
 
-If you want to be a part of this course, please sign up by **JUNE 3RD**!! https://forms.gle/KRtdKKYB57ZkaBwH7
+(emails have been sent out)
 
 
-:purple_heart: We would also be very excited if you contributed to the newly launched DeepLabCut Model Zoo while you learn! Namely, you can learn to use DeepLabCut on data that can be used to build better community tools!! Please contact us in this form if you are interested: https://forms.gle/KRtdKKYB57ZkaBwH7 :purple_heart:
+:purple_heart: Anyone (i.e. webinar participants or not): we would also be very excited if you contributed to the newly launched DeepLabCut Model Zoo while you learn! Namely, you can learn to use DeepLabCut on data that can be used to build better community tools!! Please contact us in this form if you are interested: https://forms.gle/KRtdKKYB57ZkaBwH7 :purple_heart:
 
 www.deeplabcut.org 
 
