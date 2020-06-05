@@ -70,6 +70,11 @@ You can use our demo videos, grab some from the internet, or use whatever older 
       - coming soon, multi-animal DLC: [labeling preview](https://www.youtube.com/watch?v=_qbEqNKApsI)
       - Please go from project creation (use >1 video!) to labeling your data, and then check the labels!
       
+   - **AFTER LABELING (ACTION/WATCH):**
+      - IF YOU LABELED FOR THE MODEL ZOO, [please upload your labeled data here!!](https://docs.google.com/forms/d/e/1FAIpQLSf0z6CWihGOxBUiALpN-ms4hr42xHNPAbvfeI3WxZRbEk9Reg/viewform)
+      - Once you label on your laptop and you want to train on the cloud, please upload your project folder to google drive, and then use this [COLAB NOTEBOOK](https://github.com/DeepLabCut/DeepLabCut/blob/master/examples/COLAB_YOURDATA_TrainNetwork_VideoAnalysis.ipynb) for single animal projects/model zoo, etc; and this [COLAB NOTEBOOK](https://github.com/DeepLabCut/DeepLabCut/blob/master/examples/COLAB_maDLC_TrainNetwork_VideoAnalysis.ipynb) if you have a multi-animal project to create a training set, train, and start evaluating. 
+      - [VIDEO on using COLAB with your data](https://www.youtube.com/watch?v=qJGs8nxx80A)
+      
 
 ### **Module 2: Neural Networks**
  
