@@ -67,7 +67,7 @@ You can use our demo videos, grab some from the internet, or use whatever older 
    - **WATCH:** Video tutorial 2: [using the Project Manager GUI for multi-animal pose estimation](https://www.youtube.com/watch?v=Kp-stcTm77g)
      - Please go from project creation (use >1 video!) to labeling your data, and then check the labels!
    - **WATCH:** Video tutorial 3: [using ipython/pythonw (more functions!)](https://www.youtube.com/watch?v=7xwOhUcIGio)
-      - coming soon, multi-animal DLC: [labeling preview](https://www.youtube.com/watch?v=_qbEqNKApsI)
+      - multi-animal DLC: [labeling](https://www.youtube.com/watch?v=Kp-stcTm77g)
       - Please go from project creation (use >1 video!) to labeling your data, and then check the labels!
       
    - **AFTER LABELING (ACTION/WATCH):**
