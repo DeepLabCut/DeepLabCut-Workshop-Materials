@@ -24,15 +24,19 @@ You need: Anaconda for python3 and DeepLabCut installed (CPU version)
 - you should have a [CPU version of DeepLabCut installed on your laptop](https://github.com/AlexEMG/DeepLabCut/blob/master/conda-environments/README.md). We will assume you don't all have GPUs at home, so we will 
 utilize cloud-computing resources for those steps. 
 
+- **WATCH:** overview of conda:  [Python Tutorial: Anaconda - Installation and Using Conda](https://www.youtube.com/watch?v=YJC6ldI3hWk)
+
  - **ACTION:** [Install DeepLabCut](https://github.com/AlexEMG/DeepLabCut/blob/master/docs/installation.md)
 
 ## Outline:
 
-### **The basics:**
+### **The basics of computing in Python, terminal, and overview of DLC:**
 
 - **Learning:** Using the program terminal / cmd on your computer: [Video Tutorial!](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
 
 - **Learning:** although minimal to no Python coding is required (i.e. you could use the DLC GUI to run the full program without it), here are some resources you may want to check out. [Software Carpentry: Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
+
+- **Learning:** learning and teaching signal processing, and overview from Prof. Demba Ba [talk at JupyterCon](https://www.youtube.com/watch?v=ywz-LLYwkQQ)
 
 - **Learning:** Watch a talk from Alexander Mathis (a lead DeepLabCut developer) [talk about DeepLabCut!](https://www.youtube.com/watch?v=ZjWPHM0sL4E)
 
@@ -70,7 +74,7 @@ You can use our demo videos, grab some from the internet, or use whatever older 
       - multi-animal DLC: [labeling](https://www.youtube.com/watch?v=Kp-stcTm77g)
       - Please go from project creation (use >1 video!) to labeling your data, and then check the labels!
       
-   - **AFTER LABELING (ACTION/WATCH):**
+   - **June 5th RECAP: AFTER LABELING (ACTION/WATCH):**
       - IF YOU LABELED FOR THE MODEL ZOO, [please upload your labeled data here!!](https://docs.google.com/forms/d/e/1FAIpQLSf0z6CWihGOxBUiALpN-ms4hr42xHNPAbvfeI3WxZRbEk9Reg/viewform)
       - Once you label on your laptop and you want to train on the cloud, please upload your project folder to google drive, and then use this [COLAB NOTEBOOK](https://github.com/DeepLabCut/DeepLabCut/blob/master/examples/COLAB_YOURDATA_TrainNetwork_VideoAnalysis.ipynb) for single animal projects/model zoo, etc; and this [COLAB NOTEBOOK](https://github.com/DeepLabCut/DeepLabCut/blob/master/examples/COLAB_maDLC_TrainNetwork_VideoAnalysis.ipynb) if you have a multi-animal project to create a training set, train, and start evaluating. 
       - [VIDEO on using COLAB with your data](https://www.youtube.com/watch?v=qJGs8nxx80A)
