@@ -95,6 +95,8 @@ You can use our demo videos, grab some from the internet, or use whatever older 
      - Now, decide what model(s) you want to test. 
         - IF you want to train on your CPU, then run the step `create_training_dataset`, in the GUI etc. on your own computer. 
         - IF you want to use GPUs on google colab, [**(1)** watch this FIRST/follow along here!](https://www.youtube.com/watch?v=qJGs8nxx80A) **(2)** move your whole project folder to Google Drive, and then [**use this notebook**](https://github.com/AlexEMG/DeepLabCut/blob/master/examples/COLAB_YOURDATA_TrainNetwork_VideoAnalysis.ipynb)
+        
+        **MODULE 2 webinar**: https://youtu.be/ILsuC4icBU0
    
 
 ### **Module 3: Evalution of network performance**
