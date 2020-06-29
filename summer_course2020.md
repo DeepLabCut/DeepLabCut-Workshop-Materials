@@ -114,7 +114,13 @@ You can use our demo videos, grab some from the internet, or use whatever older 
  
    - [Helper code and packages for use on DLC outputs](https://github.com/DeepLabCut/DLCutils)
    
-   - Course subscribers, we will go into depth on several ways to analyze your data. Please sign up! :smile:
+   - **REVIEW PAPER:**  [Toward a Science of Computational Ethology](https://www.sciencedirect.com/science/article/pii/S0896627314007934)
+   
+   - **REVIEW PAPER:** The state of animal pose estmiation w/ deep learning i.e. "Deep learning tools for the measurement of animal behavior in neuroscience" [arXiv](https://arxiv.org/abs/1909.13868) & [published version](https://www.sciencedirect.com/science/article/pii/S0959438819301151)
+   
+   - **READ**: [Automated measurement of mouse social behaviors using depth sensing, video tracking, and machine learning](https://www.pnas.org/content/112/38/E5351)
+   
+
    
 
 
