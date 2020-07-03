@@ -50,7 +50,7 @@ utilize cloud-computing resources for those steps.
 
 <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1587608364285-A8R2F24K4DCP0KLAYI91/ke17ZwdGBToddI8pDm48kOhrDvKq54Xu9oStUCFZX0R7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4XabXLlNWpcJMv7FrN_NLe3GEN018us8vX03EdtIDHsW7dEh7nvL5CemxAxOy1gg/EKlIEXyXUAE0cy3.jpeg?format=1000w" width="350" title="DLC" alt="review!" align="right" vspace = "50">
 
-- **REVIEW PAPER:** The state of animal pose estmiation w/ deep learning i.e. "Deep learning tools for the measurement of animal behavior in neuroscience" [arXiv](https://arxiv.org/abs/1909.13868) & [published version](https://www.sciencedirect.com/science/article/pii/S0959438819301151)
+- **REVIEW PAPER:** The state of animal pose estimation w/ deep learning i.e. "Deep learning tools for the measurement of animal behavior in neuroscience" [arXiv](https://arxiv.org/abs/1909.13868) & [published version](https://www.sciencedirect.com/science/article/pii/S0959438819301151)
 
 
 - **WATCH:** There are a lot of docs... where to begin: [Video Tutorial!](https://www.youtube.com/watch?v=A9qZidI7tL8) 
@@ -106,17 +106,25 @@ You can use our demo videos, grab some from the internet, or use whatever older 
       - why evaluation matters; how to benchmark; analyzing an video and using scoremaps, conf. readouts, etc.
    
 ### **Module 4: Scaling your analysis to many new videos**
+
+Once you have good networks, you can deploy them. You can create "cron jobs" to run a timed analysis script, for example. We run this daily on new videos collected in the lab. Check out a simple script to get started, and read more below:
  
    - [Analyzing videos in batches, over many folders, setting up automated data processing](https://github.com/DeepLabCut/DLCutils/tree/master/SCALE_YOUR_ANALYSIS) 
   
   - How to automate your analysis in the lab: [datajoint.io](datajoint.io), Cron Jobs: [schedule your code runs](https://www.ostechnix.com/a-beginners-guide-to-cron-jobs/)
 ### **Module 5: Got Poses? Now what ...**
+
+Pose estimation took away the painful part of digitizing your data, but now what? There is a rich set of tools out there to help you create your own custom analysis, or use others (and edit them to your needs). Check out more below:
  
    - [Helper code and packages for use on DLC outputs](https://github.com/DeepLabCut/DLCutils)
+   
+   - Create your own machine learning classifiers: https://scikit-learn.org/stable/
    
    - **REVIEW PAPER:**  [Toward a Science of Computational Ethology](https://www.sciencedirect.com/science/article/pii/S0896627314007934)
    
    - **REVIEW PAPER:** The state of animal pose estmiation w/ deep learning i.e. "Deep learning tools for the measurement of animal behavior in neuroscience" [arXiv](https://arxiv.org/abs/1909.13868) & [published version](https://www.sciencedirect.com/science/article/pii/S0959438819301151)
+   
+   - **REVIEW PAPER:** [Big behavior: challenges and opportunities in a new era of deep behavior profiling](https://www.nature.com/articles/s41386-020-0751-7)
    
    - **READ**: [Automated measurement of mouse social behaviors using depth sensing, video tracking, and machine learning](https://www.pnas.org/content/112/38/E5351)
    
