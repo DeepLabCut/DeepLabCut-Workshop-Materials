@@ -1,14 +1,9 @@
 ## Got Behavior? Get Poses ...  <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1572296495650-Y4ZTJ2XP2Z9XF1AD74VW/ke17ZwdGBToddI8pDm48kMulEJPOrz9Y8HeI7oJuXxR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZiU3J6AN9rgO1lHw9nGbkYQrCLTag1XBHRgOrY8YAdXW07ycm2Trb21kYhaLJjddA/DLC_logo_blk-01.png?format=1000w" width="350" title="DLC-live" alt="DLC LIVE!" align="right" vspace = "50">
 
-This document is an outline of resources for an informal "spring/summer course" for those wanting to learn to use DeepLabCut while responsibly isolating due to COVID-19. We expect it to take *roughly* 1-2 weeks to get through alone, or you can join the course and it will be spread out over 3 weeks.
+This document is an outline of resources for an informal coursefor those wanting to learn to use DeepLabCut (while responsibly isolating due to COVID-19). We expect it to take *roughly* 1-2 weeks to get through.
 
 
-**UPDATE:** We will also be organzing a "structured" version with a kick-off webinar (**JUNE 5TH!**), then a weekly meeting (for 3 weeks) to have Q & A style discussions with the core development team! 
-
-(emails have been sent out)
-
-
-:purple_heart: Anyone (i.e. webinar participants or not): we would also be very excited if you contributed to the newly launched DeepLabCut Model Zoo while you learn! Namely, you can learn to use DeepLabCut on data that can be used to build better community tools!! Please contact us in this form if you are interested: https://forms.gle/KRtdKKYB57ZkaBwH7 :purple_heart:
+:purple_heart: We would also be very excited if you contributed to the newly launched DeepLabCut Model Zoo while you learn! Namely, you can learn to use DeepLabCut on data that can be used to build better community tools!! Please contact us in this form if you are interested: https://forms.gle/KRtdKKYB57ZkaBwH7 :purple_heart:
 
 www.deeplabcut.org 
 
