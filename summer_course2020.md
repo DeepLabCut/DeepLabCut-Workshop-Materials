@@ -47,6 +47,8 @@ utilize cloud-computing resources for those steps.
 
 - **REVIEW PAPER:** The state of animal pose estimation w/ deep learning i.e. "Deep learning tools for the measurement of animal behavior in neuroscience" [arXiv](https://arxiv.org/abs/1909.13868) & [published version](https://www.sciencedirect.com/science/article/pii/S0959438819301151)
 
+- **NEW! REVIEW PAPER:** A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives
+ https://arxiv.org/abs/2009.00564
 
 - **WATCH:** There are a lot of docs... where to begin: [Video Tutorial!](https://www.youtube.com/watch?v=A9qZidI7tL8) 
 
@@ -81,8 +83,11 @@ You can use our demo videos, grab some from the internet, or use whatever older 
    - **READ ME PLEASE:** [What are convolutional neural networks?](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) 
    
    - **READ ME PLEASE:** Here is a new paper from us describing challenges in robust pose estimation, why PRE-TRAINING really matters - which was our major scientific contribution to low-data input pose-estimation - and it describes new networks that are availble to you. [Pretraining boosts out-of-domain robustness for pose estimation](https://paperswithcode.com/paper/pretraining-boosts-out-of-domain-robustness)
-   
+      
        - **MORE DETAILS:** ImageNet: check out the original paper and dataset: http://www.image-net.org/ (link to [ppt from Dr. Fei-Fei Li](http://www.image-net.org/papers/ImageNet_2010.ppt))
+       
+  - **NEW! REVIEW PAPER:** A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives
+ https://arxiv.org/abs/2009.00564
    
   Before you create a training/test set, please read/watch:
    - **More information:** [Which types neural networks are available, and what should I use?](https://github.com/AlexEMG/DeepLabCut/wiki/What-neural-network-should-I-use%3F)
