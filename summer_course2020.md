@@ -44,9 +44,6 @@ utilize cloud-computing resources for those steps.
 - **NEW! REVIEW PAPER:** A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives
  https://arxiv.org/abs/2009.00564
  
- 
-<img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1603101997909-7IEYAYZYE9C8AX6SK7GR/ke17ZwdGBToddI8pDm48kND1NDuHF9nqrgeclEdLoeR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0qN_-Z3B7EvygvPOPmeOryWYMQ3pkjXJ5SX4aMqPMuK4PimCRlyu3R6yKl-KltrlZA/networks.jpg?format=2500w" width="350" title="DLC" alt="review!" align="right" vspace = "50">
-
 - **WATCH:** There are a lot of docs... where to begin: [Video Tutorial!](https://www.youtube.com/watch?v=A9qZidI7tL8) 
 
 ### **Module 1: getting started on data**
@@ -85,6 +82,8 @@ You can use our demo videos, grab some from the internet, or use whatever older 
        
   - **NEW! REVIEW PAPER:** A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives
  https://arxiv.org/abs/2009.00564
+ 
+ <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1603101997909-7IEYAYZYE9C8AX6SK7GR/ke17ZwdGBToddI8pDm48kND1NDuHF9nqrgeclEdLoeR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0qN_-Z3B7EvygvPOPmeOryWYMQ3pkjXJ5SX4aMqPMuK4PimCRlyu3R6yKl-KltrlZA/networks.jpg?format=2500w" width="350" title="DLC" alt="review!" align="right" vspace = "50">
    
   Before you create a training/test set, please read/watch:
    - **More information:** [Which types neural networks are available, and what should I use?](https://github.com/AlexEMG/DeepLabCut/wiki/What-neural-network-should-I-use%3F)
