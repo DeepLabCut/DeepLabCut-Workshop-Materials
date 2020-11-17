@@ -4,14 +4,20 @@
 <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1572292713808-OGX91SRKS29HO1S1NM3M/ke17ZwdGBToddI8pDm48kILpIeU4tSPoyuPhoTZrjZYUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnNzerEU_4M7wwrSbGAQBPoaEXIMwgzaMZDtzFVLMb0IRXJtgAAHcBYpsBwzoISzHpg/DLC_logo_blk_wide-01.png?format=1000w" width="95%">
 </p>
 
-In **2020** we will host 2 workshops and 2 hackathons, one each at Harvard  and one each at EPFL. See [here for details](http://www.mousemotorlab.org/workshops). We will also be present at various other summer schools (TBA).
 
-**NEW: due to COVID-19, we are working on a virtual [self-paced spring/summer course](summer_course2020.md)**
+**Due to COVID-19, we needed to cancel our fall 2020 in-person workshops: we have now released our free [self-paced online course!](summer_course2020.md)** 
+
+[CLICK HERE to lauch the interactive graphic to get started!](https://view.genial.ly/5fb40a49f8a0ef13943d4e5e/horizontal-infographic-review-learning-to-use-deeplabcut) (mini preview below)
+
+<p align="left">
+<img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1605642639913-OIUBVR8R0JLYZQPRIYIR/ke17ZwdGBToddI8pDm48kMMAxEenKbh651VJujierMxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw-CO5bsXt3Lwn3O5kv-PfTgGtLU9oye8D4J7Fixq38Gl-o9tfrEtbnqpPzC5bXTas/ezgif.com-gif-maker.gif?format=750w" width="95%">
+</p>
+
 
 
 # DeepLabCut 2020 Workshop Materials:
 
-Notice that details on installation, usage and examples can be found on the standard repository: https://github.com/AlexEMG/DeepLabCut
+Notice that details on installation, usage and examples can be found on the standard repository: https://github.com/DeepLabCut/DeepLabCut
 
 Here, we share selected materials from our workshops for using DeepLabCut:
 
