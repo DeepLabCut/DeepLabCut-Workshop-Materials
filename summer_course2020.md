@@ -7,7 +7,7 @@ You can also chat with one another on Gitter or Twitter:
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeepLabCut.svg?label=DeepLabCut&style=social)](https://twitter.com/DeepLabCut)
 
 
-## Quick Start:
+## Installation:
 
 You need: Anaconda for python3 and DeepLabCut installed (CPU version)
 - you should have a [CPU version of DeepLabCut installed on your laptop](https://github.com/AlexEMG/DeepLabCut/blob/master/conda-environments/README.md). We will assume you don't all have GPUs at home, so we will 
