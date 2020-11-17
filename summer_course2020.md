@@ -1,6 +1,12 @@
-## Got Behavior? Get Poses ...  <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1572296495650-Y4ZTJ2XP2Z9XF1AD74VW/ke17ZwdGBToddI8pDm48kMulEJPOrz9Y8HeI7oJuXxR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZiU3J6AN9rgO1lHw9nGbkYQrCLTag1XBHRgOrY8YAdXW07ycm2Trb21kYhaLJjddA/DLC_logo_blk-01.png?format=1000w" width="350" title="DLC-live" alt="DLC LIVE!" align="right" vspace = "50">
+## Got Behavior? Get Poses ...  <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1572296495650-Y4ZTJ2XP2Z9XF1AD74VW/ke17ZwdGBToddI8pDm48kMulEJPOrz9Y8HeI7oJuXxR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZiU3J6AN9rgO1lHw9nGbkYQrCLTag1XBHRgOrY8YAdXW07ycm2Trb21kYhaLJjddA/DLC_logo_blk-01.png?format=1000w" width="150" title="DLC-live" alt="DLC LIVE!" align="right" vspace = "50">
 
 This document is an outline of resources for a course for those wanting to learn to use Python and DeepLabCut (while responsibly isolating due to COVID-19!). We expect it to take *roughly* 1-2 weeks to get through.
+
+[CLICK HERE to lauch the interactive graphic to get started!](https://view.genial.ly/5fb40a49f8a0ef13943d4e5e/horizontal-infographic-review-learning-to-use-deeplabcut) (mini preview below) Or, jump in below!
+
+<p align="center">
+<img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1605642639913-OIUBVR8R0JLYZQPRIYIR/ke17ZwdGBToddI8pDm48kMMAxEenKbh651VJujierMxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw-CO5bsXt3Lwn3O5kv-PfTgGtLU9oye8D4J7Fixq38Gl-o9tfrEtbnqpPzC5bXTas/ezgif.com-gif-maker.gif?format=750w" width="95%">
+</p>
 
 You can also chat with one another on Gitter or Twitter:
 [![Gitter](https://badges.gitter.im/DeepLabCut/community.svg)](https://gitter.im/DeepLabCut/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
