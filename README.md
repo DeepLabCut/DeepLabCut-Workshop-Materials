@@ -5,7 +5,7 @@
 </p>
 
 
-**Due to COVID-19, we needed to cancel our fall 2020 in-person workshops: we have now released our free [self-paced online course!](summer_course2020.md)** 
+**Due to COVID-19, we needed to cancel our fall 2020 in-person workshops: we have now released our free [self-paced online course!](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/DLCcourse.md)** 
 
 [CLICK HERE to lauch the interactive graphic to get started!](https://view.genial.ly/5fb40a49f8a0ef13943d4e5e/horizontal-infographic-review-learning-to-use-deeplabcut) (mini preview below)
 
