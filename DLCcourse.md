@@ -113,7 +113,7 @@ Once you have good networks, you can deploy them. You can create "cron jobs" to 
  
    - [Analyzing videos in batches, over many folders, setting up automated data processing](https://github.com/DeepLabCut/DLCutils/tree/master/SCALE_YOUR_ANALYSIS) 
   
-  - How to automate your analysis in the lab: [datajoint.io](datajoint.io), Cron Jobs: [schedule your code runs](https://www.ostechnix.com/a-beginners-guide-to-cron-jobs/)
+  - How to automate your analysis in the lab: [datajoint.io](https://datajoint.io), Cron Jobs: [schedule your code runs](https://www.ostechnix.com/a-beginners-guide-to-cron-jobs/)
 ### **Module 5: Got Poses? Now what ...**
 
 Pose estimation took away the painful part of digitizing your data, but now what? There is a rich set of tools out there to help you create your own custom analysis, or use others (and edit them to your needs). Check out more below:
