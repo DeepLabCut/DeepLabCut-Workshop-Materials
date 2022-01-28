@@ -5,7 +5,7 @@
 </p>
 
 
-**Due to COVID-19, we needed to cancel our fall 2020 in-person workshops: we have now released our free [self-paced online course!](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/DLCcourse.md)** 
+**Due to COVID-19, we needed to cancel our fall 2020 in-person workshops: we have now released our free [self-paced online course!](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/DLCcourse.md)**
 
 [CLICK HERE to lauch the interactive graphic to get started!](https://view.genial.ly/5fb40a49f8a0ef13943d4e5e/horizontal-infographic-review-learning-to-use-deeplabcut) (mini preview below)
 
@@ -13,7 +13,10 @@
 <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1605642639913-OIUBVR8R0JLYZQPRIYIR/ke17ZwdGBToddI8pDm48kMMAxEenKbh651VJujierMxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw-CO5bsXt3Lwn3O5kv-PfTgGtLU9oye8D4J7Fixq38Gl-o9tfrEtbnqpPzC5bXTas/ezgif.com-gif-maker.gif?format=750w" width="95%">
 </p>
 
+# Recent Workshop slides:
 
+January, 2022:
+- [Slides for Society of Integrative and Comparative Biology Workshop on DeepLabCut](SICB-tutorialJan2022_shared.pdf)
 
 # DeepLabCut 2020 Workshop Materials:
 
@@ -46,6 +49,8 @@ Notice that more demos can be found in the examples folder of the [DeepLabCut gi
 
 # Past and present workshop schedule
 
+- January 2022: Workshop on DeepLabCut at the Society of Integrative and Comparative Biology Workshop in Phoenix, USA (slides available [here](SICB-tutorialJan2022_shared.pdf))
+- October 2021: International Neural Regeneration Symposium Workshop 1: Machine & Deep Learning Models in Nantong, China
 - June 2021: Virtual visit to Marine Biological Laboratory, Woods Hole, MA as part of [The Neural Systems and Behavior Course in Woods Hole](https://www.mbl.edu/nsb/) -- see: https://twitter.com/NSB_MBL/status/1401548173798264837
 - December, 2020: [DLC-live](https://github.com/DeepLabCut/DeepLabCut-live) was published (one of the topics the hackathon contributed to!)
 - March 5-6, 2020: First DLC Hackathon: focus on hardware integration. Many exciting developments will appear -- Stay tuned!
