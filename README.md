@@ -43,7 +43,7 @@ And please check the [GitHub documentation](https://github.com/AlexEMG/DeepLabCu
 # Interactive Demos
 
 You can also use Google Colaboratory to run the demo data (without any installation):
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlexEMG/DeepLabCut/blob/master/examples/COLAB_DEMO_mouse_openfield.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DeepLabCut/DeepLabCut/blob/master/examples/COLAB/COLAB_DEMO_mouse_openfield.ipynb)
 
 Notice that more demos can be found in the examples folder of the [DeepLabCut github repo](https://github.com/AlexEMG/DeepLabCut/tree/master/examples).
 
