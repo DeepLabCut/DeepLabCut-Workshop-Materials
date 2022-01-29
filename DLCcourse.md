@@ -36,7 +36,7 @@ utilize cloud-computing resources for those steps.
 - **Learning:** Watch a talk from Alexander Mathis (a lead DeepLabCut developer) [talk about DeepLabCut!](https://www.youtube.com/watch?v=ZjWPHM0sL4E)
 
 - **DEMO:** Can I DEMO DEEPLABCUT (DLC) quickly?
-    - Yes: [you can click through this DEMO notebook](https://colab.research.google.com/github/AlexEMG/DeepLabCut/blob/master/examples/COLAB_DEMO_mouse_openfield.ipynb)
+    - Yes: [you can click through this DEMO notebook](https://github.com/DeepLabCut/DeepLabCut/blob/master/examples/COLAB/COLAB_DEMO_mouse_openfield.ipynb)
     - AND follow along with me: [Video Tutorial!](https://www.youtube.com/watch?v=DRT-Cq2vdWs)
 
 
@@ -55,7 +55,7 @@ utilize cloud-computing resources for those steps.
 ### **Module 1: getting started on data**
 
 **What you need:** any videos where you can see the animals/objects, etc.
-You can use our demo videos, grab some from the internet, or use whatever older data you have. Any camera, color/monchrome, etc will work. Find diverse videos, and label what you want to track well :)
+You can use our demo videos, grab some from the internet, or use whatever older data you have. Any camera, color/monochrome, etc will work. Find diverse videos, and label what you want to track well :)
 - IF YOU ARE PART OF THE COURSE: you will be contributing to the DLC Model Zoo :smile:
 
 :purple_heart: **NOTE:** if you want to contribute back to community-science, please get in touch with us as we have a LOT of data we want to label to be able to share back with everyone; So, if you want to help sign up here (labeling can be on data we provide or possibly yours): https://forms.gle/KRtdKKYB57ZkaBwH7 :purple_heart:
@@ -73,7 +73,7 @@ You can use our demo videos, grab some from the internet, or use whatever older 
 
    - **June 5th RECAP: AFTER LABELING (ACTION/WATCH):**
       - IF YOU LABELED FOR THE MODEL ZOO, [please upload your labeled data here!!](https://docs.google.com/forms/d/e/1FAIpQLSf0z6CWihGOxBUiALpN-ms4hr42xHNPAbvfeI3WxZRbEk9Reg/viewform)
-      - Once you label on your laptop and you want to train on the cloud, please upload your project folder to google drive, and then use this [COLAB NOTEBOOK](https://github.com/DeepLabCut/DeepLabCut/blob/master/examples/COLAB/COLAB_YOURDATA_TrainNetwork_VideoAnalysis.ipynb) for single animal projects/model zoo, etc; and this [COLAB NOTEBOOK](https://github.com/DeepLabCut/DeepLabCut/blob/master/examples/COLAB/COLAB_maDLC_TrainNetwork_VideoAnalysis.ipynb) if you have a multi-animal project to create a training set, train, and start evaluating. 
+      - Once you label on your laptop and you want to train on the cloud, please upload your project folder to google drive, and then use this [COLAB NOTEBOOK](https://github.com/DeepLabCut/DeepLabCut/blob/master/examples/COLAB/COLAB_YOURDATA_TrainNetwork_VideoAnalysis.ipynb) for single animal projects/model zoo, etc; and this [COLAB NOTEBOOK](https://github.com/DeepLabCut/DeepLabCut/blob/master/examples/COLAB/COLAB_maDLC_TrainNetwork_VideoAnalysis.ipynb) if you have a multi-animal project to create a training set, train, and start evaluating.
       - [VIDEO on using COLAB with your data](https://www.youtube.com/watch?v=qJGs8nxx80A)
 
 
@@ -96,7 +96,7 @@ You can use our demo videos, grab some from the internet, or use whatever older 
    - **WATCH:** Video tutorial 1: [How to test different networks in a controlled way](https://www.youtube.com/watch?v=WXCVr6xAcCA)
      - Now, decide what model(s) you want to test.
         - IF you want to train on your CPU, then run the step `create_training_dataset`, in the GUI etc. on your own computer.
-        - IF you want to use GPUs on google colab, [**(1)** watch this FIRST/follow along here!](https://www.youtube.com/watch?v=qJGs8nxx80A) **(2)** move your whole project folder to Google Drive, and then [**use this notebook**](https://github.com/AlexEMG/DeepLabCut/blob/master/examples/COLAB_YOURDATA_TrainNetwork_VideoAnalysis.ipynb)
+        - IF you want to use GPUs on google colab, [**(1)** watch this FIRST/follow along here!](https://www.youtube.com/watch?v=qJGs8nxx80A) **(2)** move your whole project folder to Google Drive, and then [**use this notebook**](https://github.com/DeepLabCut/DeepLabCut/blob/master/examples/COLAB/COLAB_YOURDATA_TrainNetwork_VideoAnalysis.ipynb)
 
         **MODULE 2 webinar**: https://youtu.be/ILsuC4icBU0
 
@@ -124,7 +124,7 @@ Pose estimation took away the painful part of digitizing your data, but now what
 
    - **REVIEW PAPER:**  [Toward a Science of Computational Ethology](https://www.sciencedirect.com/science/article/pii/S0896627314007934)
 
-   - **REVIEW PAPER:** The state of animal pose estmiation w/ deep learning i.e. "Deep learning tools for the measurement of animal behavior in neuroscience" [arXiv](https://arxiv.org/abs/1909.13868) & [published version](https://www.sciencedirect.com/science/article/pii/S0959438819301151)
+   - **REVIEW PAPER:** The state of animal pose estimation w/ deep learning i.e. "Deep learning tools for the measurement of animal behavior in neuroscience" [arXiv](https://arxiv.org/abs/1909.13868) & [published version](https://www.sciencedirect.com/science/article/pii/S0959438819301151)
 
    - **REVIEW PAPER:** [Big behavior: challenges and opportunities in a new era of deep behavior profiling](https://www.nature.com/articles/s41386-020-0751-7)
 
