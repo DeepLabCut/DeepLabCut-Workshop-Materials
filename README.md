@@ -5,7 +5,7 @@
 </p>
 
 
-**Due to COVID-19, we needed to cancel our fall 2020 in-person workshops: we have now released our free [self-paced online course!](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/DLCcourse.md)**
+**Due to COVID-19 we have released a free [self-paced online course!](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/DLCcourse.md)**
 
 [CLICK HERE to lauch the interactive graphic to get started!](https://view.genial.ly/5fb40a49f8a0ef13943d4e5e/horizontal-infographic-review-learning-to-use-deeplabcut) (mini preview below)
 
@@ -15,8 +15,8 @@
 
 # Recent Workshop slides:
 
-January, 2022:
-- [Slides for Society of Integrative and Comparative Biology Workshop on DeepLabCut](SICB-tutorialJan2022_shared.pdf)
+- October, 2022; [Slides from the quick DeepLabCut demo](JAX-TutorialOct2022.pdf) at the [SHORT COURSE ON THE APPLICATION OF MACHINE LEARNING FOR AUTOMATED QUANTIFICATION OF BEHAVIOR at JAX Laboratory](https://www.jax.org/education-and-learning/education-calendar/2022/october/short-course-on-the-application-of-machine-learning-for-automated-quantific)
+- January, 2022, [Slides for Society of Integrative and Comparative Biology Workshop on DeepLabCut](SICB-tutorialJan2022_shared.pdf)
 
 # DeepLabCut 2020 Workshop Materials:
 
@@ -49,6 +49,7 @@ Notice that more demos can be found in the examples folder of the [DeepLabCut gi
 
 # Past and present workshop schedule
 
+- October 2022: Workshop on DeepLabCut at the the [SHORT COURSE ON THE APPLICATION OF MACHINE LEARNING FOR AUTOMATED QUANTIFICATION OF BEHAVIOR at JAX Laboratory](https://www.jax.org/education-and-learning/education-calendar/2022/october/short-course-on-the-application-of-machine-learning-for-automated-quantific); slides available [here](JAX-TutorialOct2022.pdf)
 - January 2022: Workshop on DeepLabCut at the Society of Integrative and Comparative Biology Workshop in Phoenix, USA (slides available [here](SICB-tutorialJan2022_shared.pdf))
 - October 2021: International Neural Regeneration Symposium Workshop 1: Machine & Deep Learning Models in Nantong, China
 - June 2021: Virtual visit to Marine Biological Laboratory, Woods Hole, MA as part of [The Neural Systems and Behavior Course in Woods Hole](https://www.mbl.edu/nsb/) -- see: https://twitter.com/NSB_MBL/status/1401548173798264837
