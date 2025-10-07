@@ -49,6 +49,10 @@ Notice that more demos can be found in the examples folder of the [DeepLabCut gi
 
 # Past and present workshop schedule
 
+- September 2025: Course on behavioral analsysis during the [Brain Plasticity: Neural Basis of Individuality](https://www.neurosas.org/home2/) course in Venice, Italy. Slides [part1](VenicePart1.pdf) and [part2](VenicePart2.pdf).
+#(https://www.neurosas.org/advanced-courses-venice/advanced-courses/brain-plasticity-neural-basis-of-individuality/)
+- July 2025: DeepLabCut workshop at the Okinawa Institute of Science and Technology (OIST), Japan
+- this period should be updated :)
 - October 2022: Workshop on DeepLabCut at the the [SHORT COURSE ON THE APPLICATION OF MACHINE LEARNING FOR AUTOMATED QUANTIFICATION OF BEHAVIOR at JAX Laboratory](https://www.jax.org/education-and-learning/education-calendar/2022/october/short-course-on-the-application-of-machine-learning-for-automated-quantific); slides available [here](JAX-TutorialOct2022.pdf)
 - January 2022: Workshop on DeepLabCut at the Society of Integrative and Comparative Biology Workshop in Phoenix, USA (slides available [here](SICB-tutorialJan2022_shared.pdf))
 - October 2021: International Neural Regeneration Symposium Workshop 1: Machine & Deep Learning Models in Nantong, China
