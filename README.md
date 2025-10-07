@@ -5,7 +5,7 @@
 </p>
 
 
-**Due to COVID-19 we have released a free [self-paced online course!](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/DLCcourse.md)**
+**During COVID-19 we have released a free [self-paced online course!](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/master/DLCcourse.md)**
 
 [CLICK HERE to lauch the interactive graphic to get started!](https://view.genial.ly/5fb40a49f8a0ef13943d4e5e/horizontal-infographic-review-learning-to-use-deeplabcut) (mini preview below)
 
@@ -15,6 +15,7 @@
 
 # Recent Workshop slides:
 
+- September 2025: Course on behavioral analsysis during the [Brain Plasticity: Neural Basis of Individuality](https://www.neurosas.org/home2/) course in Venice, Italy. Slides [part1](VenicePart1.pdf) and [part2](VenicePart2.pdf).
 - October, 2022; [Slides from the quick DeepLabCut demo](JAX-TutorialOct2022.pdf) at the [SHORT COURSE ON THE APPLICATION OF MACHINE LEARNING FOR AUTOMATED QUANTIFICATION OF BEHAVIOR at JAX Laboratory](https://www.jax.org/education-and-learning/education-calendar/2022/october/short-course-on-the-application-of-machine-learning-for-automated-quantific)
 - January, 2022, [Slides for Society of Integrative and Comparative Biology Workshop on DeepLabCut](SICB-tutorialJan2022_shared.pdf)
 
@@ -50,7 +51,6 @@ Notice that more demos can be found in the examples folder of the [DeepLabCut gi
 # Past and present workshop schedule
 
 - September 2025: Course on behavioral analsysis during the [Brain Plasticity: Neural Basis of Individuality](https://www.neurosas.org/home2/) course in Venice, Italy. Slides [part1](VenicePart1.pdf) and [part2](VenicePart2.pdf).
-#(https://www.neurosas.org/advanced-courses-venice/advanced-courses/brain-plasticity-neural-basis-of-individuality/)
 - July 2025: DeepLabCut workshop at the Okinawa Institute of Science and Technology (OIST), Japan
 - this period should be updated :)
 - October 2022: Workshop on DeepLabCut at the the [SHORT COURSE ON THE APPLICATION OF MACHINE LEARNING FOR AUTOMATED QUANTIFICATION OF BEHAVIOR at JAX Laboratory](https://www.jax.org/education-and-learning/education-calendar/2022/october/short-course-on-the-application-of-machine-learning-for-automated-quantific); slides available [here](JAX-TutorialOct2022.pdf)
