@@ -50,6 +50,7 @@ Notice that more demos can be found in the examples folder of the [DeepLabCut gi
 
 # Past and present workshop schedule
 
+- June 2026: Workshop also covering [DLC2action](https://github.com/amathislab/DLC2action) in Marseille, France. [Slides](https://github.com/DeepLabCut/DeepLabCut-Workshop-Materials/blob/main/Marseille_08072026.pdf) 
 - September 2025: Course on behavioral analsysis during the [Brain Plasticity: Neural Basis of Individuality](https://www.neurosas.org/home2/) course in Venice, Italy. Slides [part1](VenicePart1.pdf) and [part2](VenicePart2.pdf).
 - July 2025: DeepLabCut workshop at the Okinawa Institute of Science and Technology (OIST), Japan
 - this period should be updated :)
